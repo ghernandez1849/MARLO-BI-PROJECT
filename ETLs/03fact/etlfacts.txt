@@ -1,0 +1,67 @@
+ Volume in drive D is DATA
+ Volume Serial Number is BA33-2C95
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts
+
+12/14/2020  10:51 AM    <DIR>          .
+12/14/2020  10:51 AM    <DIR>          ..
+11/26/2020  12:18 PM    <DIR>          deliverables
+12/14/2020  10:51 AM                 0 etlfacts.txt
+12/07/2020  06:11 PM    <DIR>          funding_sources
+11/25/2020  09:35 AM    <DIR>          milestones
+11/23/2020  02:22 PM    <DIR>          milestone_status
+11/20/2020  06:46 AM    <DIR>          oics
+12/07/2020  06:18 PM    <DIR>          projects
+               1 File(s)              0 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts\deliverables
+
+11/26/2020  12:18 PM    <DIR>          .
+11/26/2020  12:18 PM    <DIR>          ..
+11/26/2020  09:40 AM            62,671 ETL_deliverables_full_data.ktr
+11/12/2020  10:17 AM            71,258 ETL_deliverables_full_data_no_truncate.ktr
+               2 File(s)        133,929 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts\funding_sources
+
+12/07/2020  06:11 PM    <DIR>          .
+12/07/2020  06:11 PM    <DIR>          ..
+12/10/2020  01:02 PM            33,518 fact_funding_sources.ktr
+12/10/2020  12:59 PM            73,024 pre_fs_fact.ktr
+               2 File(s)        106,542 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts\milestones
+
+11/25/2020  09:35 AM    <DIR>          .
+11/25/2020  09:35 AM    <DIR>          ..
+12/11/2020  02:14 PM            81,412 ETL_milestones.ktr
+               1 File(s)         81,412 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts\milestone_status
+
+11/23/2020  02:22 PM    <DIR>          .
+11/23/2020  02:22 PM    <DIR>          ..
+11/04/2020  07:24 PM            16,053 fact_milestone_status.ktr
+               1 File(s)         16,053 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts\oics
+
+11/20/2020  06:46 AM    <DIR>          .
+11/20/2020  06:46 AM    <DIR>          ..
+11/04/2020  07:24 PM            15,633 oics_fact.ktr
+11/04/2020  07:24 PM            29,149 pre_oics_fact.ktr
+11/04/2020  07:24 PM            19,387 pre_srf_oics_bridge.ktr
+               3 File(s)         64,169 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\03facts\projects
+
+12/07/2020  06:18 PM    <DIR>          .
+12/07/2020  06:18 PM    <DIR>          ..
+12/11/2020  12:20 PM            49,313 ETL_project_status.ktr
+12/07/2020  06:28 PM            26,528 fact_project_budgets.ktr
+12/07/2020  05:52 PM            39,615 pre_project_budgets_fact.ktr
+               3 File(s)        115,456 bytes
+
+     Total Files Listed:
+              13 File(s)        517,561 bytes
+              20 Dir(s)  267,963,387,904 bytes free

@@ -1,0 +1,36 @@
+table_name, general_status_id, table_status_id, status_name
+project_expected_study_info,1,1, New
+funding_sources_info,8,1, Concept note pipeline
+project_expected_study_info,2,2, On Going
+deliverables_info,2,2, On Going
+projects_info,2,2, On Going
+funding_sources_info,2,2, On Going
+report_synthesis_flagship_progress_outcome_milestones,3,3, Completed
+project_expected_study_info,3,3, Completed
+deliverables_info,3,3, Completed
+projects_info,3,3, Completed
+funding_sources_info,3,3, Completed
+report_synthesis_flagship_progress_outcome_milestones,4,4, Extended
+project_expected_study_info,4,4, Extended
+deliverables_info,4,4, Extended
+projects_info,4,4, Extended
+funding_sources_info,4,4, Extended
+report_synthesis_flagship_progress_outcome_milestones,5,5, Cancelled
+project_expected_study_info,5,5, Cancelled
+deliverables_info,5,5, Cancelled
+projects_info,5,5, Cancelled
+funding_sources_info,5,5, Cancelled
+report_synthesis_flagship_progress_outcome_milestones,6,6, Changed
+funding_sources_info,9,7, Informally Confirmed
+project_expected_study_info,-1,-1,Not Provided
+deliverables_info,-1,-1,Not Provided
+funding_sources_info,-1,-1,Not Provided
+projects_info,-1,-1,Not Provided
+project_expected_study_info,-2,-2,Not Applicable
+deliverables_info,-2,-2,Not Applicable
+funding_sources_info,-2,-2,Not Applicable
+projects_info,-2,-2,Not Applicable
+project_expected_study_info,-3,-3,Non Mandatory
+deliverables_info,-3,-3,Non Mandatory
+funding_sources_info,-3,-3,Non Mandatory
+projects_info,-3,-3,Non Mandatory

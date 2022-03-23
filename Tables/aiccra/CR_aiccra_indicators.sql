@@ -1,0 +1,32 @@
+drop table if EXISTS marlobi.aiccra_indicators;
+
+CREATE TABLE `marlobi.aiccra_indicators` (
+   `Phase ID` bigint(20) NOT NULL DEFAULT '0',
+   `Phase name` text CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL,
+   `Phase year` int(11) NOT NULL,
+   `CRP` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `CRP name` text CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `Component` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `Component name` text CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `Outcome ID` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+   `Outcome` text CHARACTER SET utf8 COLLATE utf8_general_ci,
+   `Outcome Target Year` int(11) DEFAULT NULL,
+   `Outcome Target Unit` text CHARACTER SET utf8 COLLATE utf8_general_ci,
+   `Outcome Target Value` decimal(20,2) DEFAULT NULL,
+   `indicator_pk` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
+   `Milestone ID` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+   `Milestone` text CHARACTER SET utf8 COLLATE utf8_general_ci,
+   `Milestone Year` int(11) DEFAULT NULL,
+   `Milestone extended year` int(11) DEFAULT NULL,
+   `Milestone Target Unit` text CHARACTER SET utf8 COLLATE utf8_general_ci,
+   `Milestone Target Value` decimal(20,2) DEFAULT NULL,
+   `Milestone Status` longtext CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL,
+   `Level of Change` longtext CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `Mean of Verification` text CHARACTER SET utf8 COLLATE utf8_general_ci,
+   `Gender` longtext CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `Youth` longtext CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `CapDev` longtext CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `Climate` longtext CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+   `pk` varchar(41) CHARACTER SET utf8 COLLATE utf8_general_ci DEFAULT NULL,
+   `updated_date` datetime NOT NULL DEFAULT '0000-00-00 00:00:00'
+ ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci

@@ -1,0 +1,11 @@
+id,name,short_name,fs_status_id,ind_status_id,proj_status_id
+1,Concept note pipeline,Conc.N.Pip,1,0,0
+2,On-going,On-go,2,2,2
+3,Complete,Comp,3,3,3
+4,Extended,Ext,4,4,4
+5,Cancelled,Canc,5,5,5
+7,Informally Confirmed,Inf. Conf.,7,0,0
+-1,Not Provided,NP,-1,-1,-1
+-2,Non Applicable,NAP,-2,-2,-2
+8,New,New,0,1,0
+6,Changed,Changed,0,6,0

@@ -1,0 +1,113 @@
+ Volume in drive D is DATA
+ Volume Serial Number is BA33-2C95
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages
+
+12/14/2020  10:46 AM    <DIR>          .
+12/14/2020  10:46 AM    <DIR>          ..
+11/25/2020  09:35 AM    <DIR>          deliverables
+12/14/2020  10:46 AM                 0 etlstaging.txt
+12/05/2020  07:51 AM    <DIR>          funding_sources
+11/23/2020  02:23 PM    <DIR>          milestones
+11/23/2020  02:23 PM    <DIR>          milestone_status
+11/27/2020  01:29 PM    <DIR>          oics
+12/04/2020  01:38 PM    <DIR>          projects
+               1 File(s)              0 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages\deliverables
+
+11/25/2020  09:35 AM    <DIR>          .
+11/25/2020  09:35 AM    <DIR>          ..
+11/14/2020  06:50 AM            69,583 ETL_stg_deliverables_full_data.ktr
+11/26/2020  12:13 PM            65,871 ETL_stg_deliverables_full_data_tot.ktr
+11/25/2020  03:10 PM            27,450 ETL_stg_deliverables_metadata.ktr
+11/17/2020  07:31 PM            21,012 ETL_stg_included_annual_report.ktr
+               4 File(s)        183,916 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages\funding_sources
+
+12/05/2020  07:51 AM    <DIR>          .
+12/05/2020  07:51 AM    <DIR>          ..
+12/04/2020  04:24 PM            29,116 stg_br_fs_group_institutions.ktr
+12/05/2020  07:52 AM            32,014 stg_br_fs_group_locations.ktr
+12/03/2020  05:44 PM            51,138 stg_fs_info.ktr
+11/30/2020  12:54 PM            19,907 stg_fs_intersect_group_institutions.ktr
+12/03/2020  03:11 PM            19,855 stg_fs_intersect_group_locations.ktr
+12/05/2020  07:25 AM            32,612 stg_fs_locations.ktr
+12/04/2020  05:28 PM            27,781 stg_pre_fs_group_institutions.ktr
+12/05/2020  07:30 AM            33,427 stg_pre_fs_group_locations.ktr
+               8 File(s)        245,850 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages\milestones
+
+11/23/2020  02:23 PM    <DIR>          .
+11/23/2020  02:23 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages\milestone_status
+
+11/23/2020  02:23 PM    <DIR>          .
+11/23/2020  02:23 PM    <DIR>          ..
+11/04/2020  07:24 PM            36,795 pre_milestone_status_fact.ktr
+11/04/2020  07:24 PM            20,728 stg_cci.ktr
+11/04/2020  07:24 PM            19,692 stg_cross_cutting_levels.ktr
+11/04/2020  07:24 PM            20,217 stg_crps.ktr
+11/04/2020  07:24 PM            19,370 stg_flagships.ktr
+11/04/2020  07:24 PM            21,551 stg_milestones.ktr
+11/04/2020  07:24 PM            19,846 stg_milestone_statuses.ktr
+11/04/2020  07:24 PM            24,679 stg_milestone_status_fact.ktr
+11/04/2020  07:24 PM            23,023 stg_milestone_status_info.ktr
+11/04/2020  07:24 PM            19,676 stg_milestone_status_reasons.ktr
+11/04/2020  07:24 PM            20,087 stg_phases.ktr
+11/04/2020  07:24 PM            21,774 stg_sdg.ktr
+11/04/2020  07:24 PM            20,787 stg_srf.ktr
+              13 File(s)        288,225 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages\oics
+
+11/27/2020  01:29 PM    <DIR>          .
+11/27/2020  01:29 PM    <DIR>          ..
+11/04/2020  07:24 PM            23,411 pre_cci_oics_br.ktr
+11/04/2020  07:24 PM            21,142 pre_extpart_oics_br.ktr
+11/04/2020  07:24 PM            21,193 pre_flagship_oics_br.ktr
+11/04/2020  07:24 PM            20,256 pre_geo_oics_br.ktr
+11/04/2020  07:24 PM            20,255 pre_loc_oics_br.ktr
+11/04/2020  07:24 PM            19,486 pre_milestones_oics_br.ktr
+11/04/2020  07:24 PM            20,120 pre_sdg_br.ktr
+11/04/2020  07:24 PM            21,081 pre_sdg_oics_br.ktr
+11/04/2020  07:24 PM            21,135 pre_srftar_oics_br.ktr
+11/04/2020  07:24 PM            22,540 pre_srf_oics_br.ktr
+11/04/2020  07:24 PM            20,391 stg_cci_oics_br.ktr
+11/04/2020  07:24 PM            20,267 stg_extpart_oics_br.ktr
+11/04/2020  07:24 PM            20,549 stg_ext_partners.ktr
+11/04/2020  07:24 PM            20,437 stg_flagship_oics_br.ktr
+11/27/2020  05:43 PM            42,466 stg_fs_info.ktr
+11/04/2020  07:24 PM            20,225 stg_geo_oics_br.ktr
+11/26/2020  08:28 PM            18,697 stg_geo_scopes.ktr
+11/26/2020  09:10 PM            30,793 stg_locations.ktr
+11/04/2020  07:24 PM            22,610 stg_loc_oics_br.ktr
+11/04/2020  07:24 PM            20,649 stg_milestones_oics_br.ktr
+11/04/2020  07:24 PM            21,083 stg_oics_fact.ktr
+11/04/2020  07:24 PM            21,697 stg_oics_metadata.ktr
+11/04/2020  07:24 PM            19,316 stg_policy_investment_types.ktr
+11/04/2020  07:24 PM            20,099 stg_sdg_br.ktr
+11/04/2020  07:24 PM            20,496 stg_sdg_oics_br.ktr
+11/04/2020  07:24 PM            19,295 stg_smo_org_types.ktr
+11/04/2020  07:24 PM            20,387 stg_srftar_oics_br.ktr
+11/04/2020  07:24 PM            22,396 stg_srf_oics_br.ktr
+11/04/2020  07:24 PM            19,660 stg_srf_targets.ktr
+11/04/2020  07:24 PM            19,288 stg_stage_processes.ktr
+11/04/2020  07:24 PM            19,233 stg_stg_maturities.ktr
+11/04/2020  07:24 PM            19,731 stg_tags.ktr
+              32 File(s)        690,384 bytes
+
+ Directory of D:\Github\MARLO-BI\ETLs\02stages\projects
+
+12/04/2020  01:38 PM    <DIR>          .
+12/04/2020  01:38 PM    <DIR>          ..
+12/07/2020  12:06 PM            26,770 stg_projects_info.ktr
+               1 File(s)         26,770 bytes
+
+     Total Files Listed:
+              59 File(s)      1,435,145 bytes
+              20 Dir(s)  267,963,392,000 bytes free
